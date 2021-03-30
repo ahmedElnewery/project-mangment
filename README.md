@@ -1,5 +1,4 @@
-
-[social-party](https://i.imgur.com/Mj9eFFW.gif)
+![social-party](https://i.imgur.com/Mj9eFFW.gif)
 >Join party adding your post and discuss other posts  
 
 ## Demo
