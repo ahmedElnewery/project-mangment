@@ -1,8 +1,9 @@
-![social party](https://imgur.com/cDI3Hzk)
+
+[social-party](https://i.imgur.com/Mj9eFFW.gifv)
 >Join party adding your post and discuss other posts  
 
 ## Demo
-You can visit the website [here](https://ahmedelnewery.github.io/buger-builder/)
+You can visit the website [here](https://project-mangment.herokuapp.com/)
 
 
 
